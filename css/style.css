@@ -2,7 +2,7 @@
 body{background: #356842;}
 
 .typeDiv{width: 100vw; display: flex; justify-content: center; align-items: center; height: 100vh; flex-direction: column;}
-.heading{color:white;}
-#typeArea{height: 250px; width: 550px;}
-.TypingContent{font-size: 20px;}
-#submitBtn{padding: 10px 20px; font-size: 15px; text-transform: uppercase; background: #456aaa; border: none; cursor: pointer; }
+.heading{color:white; margin:20px auto 10px auto;}
+.TypingContent{font-size: 22px; color: #d5f241; margin-bottom:0px; height: 70px; font-weight: normal; max-width: 600px; text-align: center; }
+#typeArea{height: 250px; width: 570px; padding:10px; margin-top:20px; font-size: 16px; font-family: arial; color:#444;}
+#submitBtn{padding: 10px 20px; font-size: 15px; color: #000;margin-top: 10px; text-transform: uppercase; background: #456aaa; border: none; cursor: pointer; }
